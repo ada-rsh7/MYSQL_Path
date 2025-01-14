@@ -1,4 +1,4 @@
 # MYSQL_Path
 My MYSQL leaning path from beginning to advance 
-<b\>
+<br>
 Author - Adarsh Kesarwani
